@@ -1,5 +1,5 @@
 # Flask React Boilerplate
 
-Front-end: https://github.com/whittlbc/flask-react-fe
+Front-end (React): https://github.com/whittlbc/flask-react-fe
 
-Back-end: https://github.com/whittlbc/flask-react-be
+Back-end (Flask): https://github.com/whittlbc/flask-react-be
